@@ -1,0 +1,10 @@
+test_insight_markup_displays_approved_numbers (test_regional_design.RegionalDesignTests.test_insight_markup_displays_approved_numbers) ... ok
+test_navigation_and_widget_contracts (test_regional_design.RegionalDesignTests.test_navigation_and_widget_contracts) ... 2026-10-26 23:37:38.897 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_snow_map_keeps_every_boundary_and_selected_outline (test_regional_design.RegionalDesignTests.test_snow_map_keeps_every_boundary_and_selected_outline) ... ok
+test_status_direction_preserved_across_bases (test_regional_design.RegionalDesignTests.test_status_direction_preserved_across_bases) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 4.722s
+
+OK

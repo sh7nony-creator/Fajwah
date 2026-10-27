@@ -1,0 +1,49 @@
+test_entrypoint_and_arabic_pages (test_app.AppTests.test_entrypoint_and_arabic_pages) ... 2026-10-20 14:48:52.382 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_full_pipeline_and_no_mutation (test_data.DataTests.test_full_pipeline_and_no_mutation) ... ok
+test_geometry (test_data.DataTests.test_geometry) ... ok
+test_invalid_geometry_rejected (test_data.DataTests.test_invalid_geometry_rejected) ... ok
+test_metric_identity (test_data.DataTests.test_metric_identity) ... ok
+test_metrics_totals_formulas_sign_and_ranks (test_data.DataTests.test_metrics_totals_formulas_sign_and_ranks) ... ok
+test_missing_duplicate_and_extra_region_rejected (test_data.DataTests.test_missing_duplicate_and_extra_region_rejected) ... ok
+test_originals_unchanged (test_data.DataTests.test_originals_unchanged) ... ok
+test_region_aliases (test_data.DataTests.test_region_aliases) ... ok
+test_reports_and_raw_inputs (test_data.DataTests.test_reports_and_raw_inputs) ... ok
+test_sign_and_rank_errors_rejected (test_data.DataTests.test_sign_and_rank_errors_rejected) ... ok
+test_thirteen_regions_and_exact_join (test_data.DataTests.test_thirteen_regions_and_exact_join) ... ok
+test_wrong_total_rejected (test_data.DataTests.test_wrong_total_rejected) ... ok
+test_bad_percentage_and_header_fail (test_national.NationalTests.test_bad_percentage_and_header_fail) ... ok
+test_charts_tables_and_descriptions_all_filters (test_national.NationalTests.test_charts_tables_and_descriptions_all_filters) ... ok
+test_every_value_matches_original_excel_cell (test_national.NationalTests.test_every_value_matches_original_excel_cell) ... ok
+test_explicit_zero_preserved_and_missing_rejected (test_national.NationalTests.test_explicit_zero_preserved_and_missing_rejected) ... ok
+test_housing_is_count_and_saudi_only (test_national.NationalTests.test_housing_is_count_and_saudi_only) ... ok
+test_internal_table_numbers_not_assumed_from_sheet_names (test_national.NationalTests.test_internal_table_numbers_not_assumed_from_sheet_names) ... ok
+test_national_filter_switches (test_national.NationalTests.test_national_filter_switches) ... 2026-10-20 14:48:58.195 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_national_page_all_sections (test_national.NationalTests.test_national_page_all_sections) ... 2026-10-20 14:49:02.606 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_no_regional_result_changed (test_national.NationalTests.test_no_regional_result_changed) ... ok
+test_published_totals_and_nonadditive_dimensions (test_national.NationalTests.test_published_totals_and_nonadditive_dimensions) ... ok
+test_all_visuals_match_card_values_for_both_bases (test_presentation.PresentationTests.test_all_visuals_match_card_values_for_both_bases) ... ok
+test_colors_stable_and_zero_centered (test_presentation.PresentationTests.test_colors_stable_and_zero_centered) ... ok
+test_derivatives_preserve_excel_columns_and_precision (test_presentation.PresentationTests.test_derivatives_preserve_excel_columns_and_precision) ... ok
+test_missing_values_fail_instead_of_zero_fill (test_presentation.PresentationTests.test_missing_values_fail_instead_of_zero_fill) ... ok
+test_relative_and_count_ranks_independent (test_presentation.PresentationTests.test_relative_and_count_ranks_independent) ... ok
+test_rule_based_interpretation (test_presentation.PresentationTests.test_rule_based_interpretation) ... ok
+test_switches_do_not_mix_metric_payloads (test_presentation.PresentationTests.test_switches_do_not_mix_metric_payloads) ... 2026-10-20 14:49:13.268 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_all_regions_in_both_metric_cards (test_regional.RegionalTests.test_all_regions_in_both_metric_cards) ... 2026-10-20 14:49:34.295 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_dropdown_metric_and_card_update (test_regional.RegionalTests.test_dropdown_metric_and_card_update) ... 2026-10-20 14:50:07.775 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_map_has_all_regions_and_approved_values (test_regional.RegionalTests.test_map_has_all_regions_and_approved_values) ... ok
+test_rankings_comparison_and_table_match_excel (test_regional.RegionalTests.test_rankings_comparison_and_table_match_excel) ... ok
+test_selection_location_not_point_index (test_regional.RegionalTests.test_selection_location_not_point_index) ... ok
+test_selection_payload_decoder (test_regional.RegionalTests.test_selection_payload_decoder) ... 2026-10-20 14:50:14.256 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-20 14:50:15.931 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+
+----------------------------------------------------------------------
+Ran 36 tests in 83.548s
+
+OK

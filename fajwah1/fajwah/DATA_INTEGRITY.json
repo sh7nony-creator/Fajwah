@@ -1,0 +1,92 @@
+[
+  {
+    "path": "data/raw/elderly_by_region_2025.xlsx.xlsx",
+    "unchanged": true,
+    "sha256": "15255f3659de73cd62522354b52f989ae898350385ac53a154347053b9e607eb"
+  },
+  {
+    "path": "data/raw/Master_Dataset.xlsx",
+    "unchanged": true,
+    "sha256": "0f6726b2c1a55c1692ca024a92b1e263776304c153def4644c8aca59618f1dad"
+  },
+  {
+    "path": "data/raw/ncnp_orgs.csv.xlsx",
+    "unchanged": true,
+    "sha256": "02d22ce18f98250ae21b2b3b073129ad373b825817bb52334b4483ad5fb00b55"
+  },
+  {
+    "path": "data/raw/NCNP_Population_VLOOKUP.xlsx.xlsx",
+    "unchanged": true,
+    "sha256": "a04a67929a65ab55f7bef22f33c2fc9941128e6cfbf26be61ec69a543c8590be"
+  },
+  {
+    "path": "data/raw/population_2024.csv.xlsx",
+    "unchanged": true,
+    "sha256": "af5d2c97a27b1a6fc04774a17ebdb6355a84e8f7ecbd45c695e53c99729e379a"
+  },
+  {
+    "path": "data/raw/Regional_Gap_Report.xlsx",
+    "unchanged": true,
+    "sha256": "76cc3ea29d0635e3e057335aaa018fc0b7f20c82ce5ca43b942f8e00c7dbfb7d"
+  },
+  {
+    "path": "data/raw/Summary_Report.xlsx",
+    "unchanged": true,
+    "sha256": "0216c9239e64dd67bf63eb5129b64f18afa278cc11aaaa41028d4eea2e1f0172"
+  },
+  {
+    "path": "data/reference/boundary_metadata.json",
+    "unchanged": true,
+    "sha256": "54d8bf2ea19a7c782f10788832f87df15bb63c3edf20d0607254e5b8e7da7611"
+  },
+  {
+    "path": "data/reference/boundary_sha256.txt",
+    "unchanged": true,
+    "sha256": "fdf018a2b3c85ace3fc3b687e8ff0a990cddbd3a6caf8f22c11d7c3857c1434b"
+  },
+  {
+    "path": "data/reference/raw_checksums.json",
+    "unchanged": true,
+    "sha256": "1d934a31c0235ecc601887cac72b2a2a583b89e107f9fae0afda93c993cd3dce"
+  },
+  {
+    "path": "data/reference/saudi_adm1.geojson",
+    "unchanged": true,
+    "sha256": "75abcfd5a61790e5e505974f04cbd1d869e58d81b6faba039b000987e659e840"
+  },
+  {
+    "path": "data/reference/SOURCE.md",
+    "unchanged": true,
+    "sha256": "be3f9d07138bd41ecace2318ba6e5288b5cd83133c082e18af1300e060a370a3"
+  },
+  {
+    "path": "src/data.py",
+    "unchanged": true,
+    "sha256": "c977f42259a45bd6de3fd08ab8e66cd432b37d6c034b2a846d7c022b7e3c76ce"
+  },
+  {
+    "path": "src/national_data.py",
+    "unchanged": true,
+    "sha256": "0a40ffb6cac689a01cd308694b56b7804cb7a88e97fc8ff11cf9654dfc9fc0fb"
+  },
+  {
+    "path": "src/presentation.py",
+    "unchanged": true,
+    "sha256": "28a907a930144da95e067ad513f76baa62a7213720a3d8f0816e45391c73566f"
+  },
+  {
+    "path": "src/regional_views.py",
+    "unchanged": true,
+    "sha256": "8c52fd4c496b69760083003178c413ec479ee676f9ce0e50aaebc69b392ec6f8"
+  },
+  {
+    "path": "src/regions.py",
+    "unchanged": true,
+    "sha256": "97d3468fb995b3070a8eb335a763efd3c643d78e014c9e5b750b07c87c86b242"
+  },
+  {
+    "path": "src/validation.py",
+    "unchanged": true,
+    "sha256": "9939fe6c01bfbc17f331c261ed6f27a556955720fa9275420b48fe20f87f3c72"
+  }
+]

@@ -1,0 +1,614 @@
+test_entrypoint_and_arabic_pages (test_app.AppTests.test_entrypoint_and_arabic_pages) ... 2026-10-27 21:18:52.969 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 21:18:54.102 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:18:54.102 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:18:54.102 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:18:54.104 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:00.708 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:00.708 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:00.721 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:00.721 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:00.721 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:00.721 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:00.721 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:01.074 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:01.074 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:01.087 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:01.087 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:01.087 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:01.088 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:01.088 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:01.108 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:01.108 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+ok
+test_full_pipeline_and_no_mutation (test_data.DataTests.test_full_pipeline_and_no_mutation) ... ok
+test_geometry (test_data.DataTests.test_geometry) ... ok
+test_invalid_geometry_rejected (test_data.DataTests.test_invalid_geometry_rejected) ... ok
+test_metric_identity (test_data.DataTests.test_metric_identity) ... ok
+test_metrics_totals_formulas_sign_and_ranks (test_data.DataTests.test_metrics_totals_formulas_sign_and_ranks) ... ok
+test_missing_duplicate_and_extra_region_rejected (test_data.DataTests.test_missing_duplicate_and_extra_region_rejected) ... ok
+test_originals_unchanged (test_data.DataTests.test_originals_unchanged) ... ok
+test_region_aliases (test_data.DataTests.test_region_aliases) ... ok
+test_reports_and_raw_inputs (test_data.DataTests.test_reports_and_raw_inputs) ... ok
+test_sign_and_rank_errors_rejected (test_data.DataTests.test_sign_and_rank_errors_rejected) ... ok
+test_thirteen_regions_and_exact_join (test_data.DataTests.test_thirteen_regions_and_exact_join) ... ok
+test_wrong_total_rejected (test_data.DataTests.test_wrong_total_rejected) ... ok
+test_bad_percentage_and_header_fail (test_national.NationalTests.test_bad_percentage_and_header_fail) ... ok
+test_charts_tables_and_descriptions_all_filters (test_national.NationalTests.test_charts_tables_and_descriptions_all_filters) ... ok
+test_every_value_matches_original_excel_cell (test_national.NationalTests.test_every_value_matches_original_excel_cell) ... ok
+test_explicit_zero_preserved_and_missing_rejected (test_national.NationalTests.test_explicit_zero_preserved_and_missing_rejected) ... ok
+test_housing_is_count_and_saudi_only (test_national.NationalTests.test_housing_is_count_and_saudi_only) ... ok
+test_internal_table_numbers_not_assumed_from_sheet_names (test_national.NationalTests.test_internal_table_numbers_not_assumed_from_sheet_names) ... ok
+test_national_filter_switches (test_national.NationalTests.test_national_filter_switches) ... 2026-10-27 21:19:09.252 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 21:19:09.635 DEBUG   streamlit.components.v2.manifest_scanner: Filtered 85 packages down to 2 candidates for component scanning
+2026-10-27 21:19:09.635 DEBUG   streamlit.components.v2.manifest_scanner: Scanning 2 candidate packages for component manifests using 2 worker threads
+2026-10-27 21:19:10.209 DEBUG   streamlit.components.v2.manifest_scanner: Found 0 component manifests total
+2026-10-27 21:19:10.214 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:10.218 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:10.218 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:10.220 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:10.221 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:12.968 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:12.968 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:12.980 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:12.985 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:12.985 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:12.985 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:12.985 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:13.258 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:13.259 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:13.260 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:13.260 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:13.271 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:13.271 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:13.271 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:13.681 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:13.681 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:13.692 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:13.693 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:13.693 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:13.693 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:13.693 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:13.924 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:13.924 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:14.292 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:14.292 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:14.292 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:14.292 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:14.292 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:14.651 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:14.652 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:14.931 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:14.931 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:14.931 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:14.931 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:14.931 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:15.248 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:15.249 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:15.575 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:15.575 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:15.575 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:15.575 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:15.577 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:15.928 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:15.928 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:15.936 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:15.937 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:15.937 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:15.937 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:15.937 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:16.202 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:16.202 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:16.431 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:16.432 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:16.432 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:16.432 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:16.432 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:16.820 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:16.820 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:17.042 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:17.042 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:17.042 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:17.042 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:17.042 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:17.445 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:17.445 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:17.717 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:17.717 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:17.717 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:17.717 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:17.717 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:18.067 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:18.068 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:18.071 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:18.071 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:18.071 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:18.071 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:18.071 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:18.423 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:18.424 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:18.771 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:18.774 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:18.774 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:18.774 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:18.774 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:19.111 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:19.111 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:19.452 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:19.452 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:19.452 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:19.452 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:19.452 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:19.733 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:19.733 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+ok
+test_national_page_all_sections (test_national.NationalTests.test_national_page_all_sections) ... 2026-10-27 21:19:20.103 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 21:19:20.391 DEBUG   streamlit.components.v2.manifest_scanner: Filtered 85 packages down to 2 candidates for component scanning
+2026-10-27 21:19:20.391 DEBUG   streamlit.components.v2.manifest_scanner: Scanning 2 candidate packages for component manifests using 2 worker threads
+2026-10-27 21:19:21.001 DEBUG   streamlit.components.v2.manifest_scanner: Found 0 component manifests total
+2026-10-27 21:19:21.005 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:21.005 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:21.005 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:21.005 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:21.005 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:24.019 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:24.019 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:24.040 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:24.041 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:24.041 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:24.041 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:24.041 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:24.479 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:24.479 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:24.487 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:24.488 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:24.488 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:24.488 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:24.488 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:24.773 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:24.775 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:25.238 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:25.239 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:25.239 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:25.239 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:25.239 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:25.464 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:25.466 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:25.547 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:25.550 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:25.550 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:25.550 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:25.550 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:25.778 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:25.780 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:26.039 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:26.039 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:26.039 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:26.039 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:26.039 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:26.300 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:26.300 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:26.489 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:26.491 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:26.491 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:26.492 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:26.493 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:26.978 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:26.978 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:27.157 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:27.158 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:27.158 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:27.158 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:27.158 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:27.427 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:27.431 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:27.631 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:27.632 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:27.632 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:27.632 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:27.632 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:27.964 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:27.964 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:28.397 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:28.399 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:28.399 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:28.399 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:28.399 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:31.538 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:31.538 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+ok
+test_no_regional_result_changed (test_national.NationalTests.test_no_regional_result_changed) ... ok
+test_published_totals_and_nonadditive_dimensions (test_national.NationalTests.test_published_totals_and_nonadditive_dimensions) ... ok
+test_all_visuals_match_card_values_for_both_bases (test_presentation.PresentationTests.test_all_visuals_match_card_values_for_both_bases) ... ok
+test_colors_stable_and_zero_centered (test_presentation.PresentationTests.test_colors_stable_and_zero_centered) ... ok
+test_derivatives_preserve_excel_columns_and_precision (test_presentation.PresentationTests.test_derivatives_preserve_excel_columns_and_precision) ... ok
+test_missing_values_fail_instead_of_zero_fill (test_presentation.PresentationTests.test_missing_values_fail_instead_of_zero_fill) ... ok
+test_relative_and_count_ranks_independent (test_presentation.PresentationTests.test_relative_and_count_ranks_independent) ... ok
+test_rule_based_interpretation (test_presentation.PresentationTests.test_rule_based_interpretation) ... ok
+test_switches_do_not_mix_metric_payloads (test_presentation.PresentationTests.test_switches_do_not_mix_metric_payloads) ... 2026-10-27 21:19:46.511 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 21:19:46.774 DEBUG   streamlit.components.v2.manifest_scanner: Filtered 85 packages down to 2 candidates for component scanning
+2026-10-27 21:19:46.774 DEBUG   streamlit.components.v2.manifest_scanner: Scanning 2 candidate packages for component manifests using 2 worker threads
+2026-10-27 21:19:47.574 DEBUG   streamlit.components.v2.manifest_scanner: Found 0 component manifests total
+2026-10-27 21:19:47.574 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:47.579 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:47.579 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:47.579 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:47.579 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:50.977 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:50.978 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:50.983 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:50.983 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:50.983 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:50.984 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:50.984 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:53.813 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:53.815 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:53.824 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:53.826 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:53.826 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:53.826 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:53.826 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:56.604 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:56.604 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:56.608 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:56.608 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:56.610 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:56.610 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:56.610 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:19:59.287 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:19:59.287 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:19:59.390 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:19:59.391 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:19:59.391 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:19:59.391 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:19:59.391 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:01.934 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:01.934 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:02.137 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:02.137 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:02.137 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:02.137 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:02.141 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:04.803 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:04.803 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:04.808 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:04.808 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:04.812 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:04.812 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:04.812 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:07.059 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:07.059 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:07.172 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:07.174 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:07.174 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:07.174 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:07.174 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:09.572 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:09.572 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:09.681 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:09.683 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:09.683 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:09.683 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:09.683 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:12.640 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:12.640 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:12.645 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:12.649 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:12.649 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:12.649 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:12.649 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:15.264 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:15.264 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:15.272 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:15.272 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:15.272 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:15.272 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:15.272 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:17.425 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:17.426 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:17.603 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:17.603 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:17.603 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:17.603 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:17.603 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:20.476 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:20.476 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:20.633 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:20.634 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:20.634 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:20.634 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:20.634 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:23.456 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:23.459 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:23.464 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:23.465 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:23.465 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:23.465 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:23.465 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:26.482 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:26.484 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:26.586 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:26.586 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:26.586 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:26.587 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:26.587 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:29.404 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:29.405 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+ok
+test_all_regions_in_both_metric_cards (test_regional.RegionalTests.test_all_regions_in_both_metric_cards) ... 2026-10-27 21:20:30.101 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 21:20:30.514 DEBUG   streamlit.components.v2.manifest_scanner: Filtered 85 packages down to 2 candidates for component scanning
+2026-10-27 21:20:30.514 DEBUG   streamlit.components.v2.manifest_scanner: Scanning 2 candidate packages for component manifests using 2 worker threads
+2026-10-27 21:20:31.503 DEBUG   streamlit.components.v2.manifest_scanner: Found 0 component manifests total
+2026-10-27 21:20:31.511 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:31.511 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:31.512 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:31.512 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:31.512 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:34.995 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:34.995 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:35.000 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:35.006 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:35.006 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:35.006 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:35.006 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:37.813 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:37.813 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:37.824 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:37.824 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:37.824 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:37.828 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:37.828 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:40.480 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:40.480 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:40.487 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:40.488 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:40.488 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:40.488 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:40.488 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:43.863 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:43.863 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:43.863 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:43.863 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:43.863 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:43.863 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:43.863 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:46.429 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:46.431 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:46.438 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:46.438 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:46.438 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:46.438 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:46.440 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:49.372 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:49.372 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:49.377 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:49.377 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:49.377 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:49.377 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:49.379 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:51.717 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:51.717 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:51.721 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:51.725 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:51.725 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:51.725 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:51.725 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:54.323 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:54.323 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:54.329 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:54.329 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:54.329 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:54.329 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:54.329 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:20:57.168 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:20:57.170 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:20:57.175 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:20:57.178 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:20:57.178 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:20:57.178 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:20:57.178 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:00.025 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:00.026 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:00.033 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:00.033 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:00.033 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:00.033 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:00.033 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:02.882 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:02.884 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:02.890 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:02.890 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:02.891 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:02.891 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:02.891 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:05.365 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:05.365 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:05.372 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:05.373 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:05.373 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:05.373 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:05.374 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:08.270 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:08.271 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:08.278 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:08.279 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:08.279 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:08.279 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:08.279 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:11.759 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:11.760 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:11.768 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:11.768 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:11.768 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:11.768 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:11.768 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:14.149 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:14.151 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:14.158 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:14.159 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:14.159 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:14.159 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:14.159 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:17.785 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:17.785 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:17.795 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:17.796 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:17.796 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:17.796 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:17.796 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:20.446 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:20.446 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:20.452 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:20.452 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:20.452 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:20.452 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:20.452 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:23.637 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:23.637 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:23.644 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:23.646 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:23.646 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:23.646 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:23.646 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:25.631 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:25.631 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:25.637 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:25.637 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:25.637 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:25.637 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:25.637 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:28.292 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:28.293 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:28.302 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:28.304 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:28.304 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:28.304 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:28.304 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:31.630 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:31.630 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:31.634 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:31.634 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:31.634 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:31.636 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:31.636 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:33.747 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:33.751 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:33.758 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:33.760 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:33.760 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:33.760 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:33.760 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:37.071 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:37.071 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:37.074 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:37.074 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:37.074 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:37.074 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:37.074 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:39.373 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:39.373 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:39.379 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:39.379 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:39.379 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:39.379 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:39.379 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:41.776 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:41.778 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:41.783 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:41.783 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:41.783 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:41.783 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:41.783 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:45.193 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:45.194 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:45.205 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:45.205 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:45.205 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:45.205 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:45.206 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:47.328 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:47.328 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:47.337 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:47.338 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:47.338 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:47.338 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:47.338 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:49.697 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:49.697 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:49.703 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:49.703 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:49.708 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:49.708 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:49.708 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:51.919 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:51.919 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+ok
+test_dropdown_metric_and_card_update (test_regional.RegionalTests.test_dropdown_metric_and_card_update) ... 2026-10-27 21:21:51.925 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 21:21:52.354 DEBUG   streamlit.components.v2.manifest_scanner: Filtered 85 packages down to 2 candidates for component scanning
+2026-10-27 21:21:52.354 DEBUG   streamlit.components.v2.manifest_scanner: Scanning 2 candidate packages for component manifests using 2 worker threads
+2026-10-27 21:21:52.833 DEBUG   streamlit.components.v2.manifest_scanner: Found 0 component manifests total
+2026-10-27 21:21:52.836 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:52.836 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:52.836 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:52.836 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:52.836 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:21:58.211 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:21:58.211 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:21:58.214 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:21:58.214 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:21:58.214 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:21:58.214 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:21:58.214 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:22:01.002 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:22:01.002 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:22:01.020 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:22:01.020 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:22:01.020 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:22:01.020 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:22:01.020 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:22:03.512 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:22:03.512 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:22:03.518 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:22:03.522 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:22:03.522 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:22:03.522 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:22:03.522 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:22:05.985 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:22:05.985 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+ok
+test_map_has_all_regions_and_approved_values (test_regional.RegionalTests.test_map_has_all_regions_and_approved_values) ... ok
+test_rankings_comparison_and_table_match_excel (test_regional.RegionalTests.test_rankings_comparison_and_table_match_excel) ... ok
+test_selection_location_not_point_index (test_regional.RegionalTests.test_selection_location_not_point_index) ... ok
+test_selection_payload_decoder (test_regional.RegionalTests.test_selection_payload_decoder) ... 2026-10-27 21:22:08.027 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 21:22:08.348 DEBUG   streamlit.components.v2.manifest_scanner: Filtered 85 packages down to 2 candidates for component scanning
+2026-10-27 21:22:08.348 DEBUG   streamlit.components.v2.manifest_scanner: Scanning 2 candidate packages for component manifests using 2 worker threads
+2026-10-27 21:22:09.217 DEBUG   streamlit.components.v2.manifest_scanner: Found 0 component manifests total
+2026-10-27 21:22:09.407 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:22:09.408 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:22:09.408 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:22:09.409 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:22:09.409 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:22:12.106 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:22:12.106 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-10-27 21:22:12.108 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_insight_markup_displays_approved_numbers (test_regional_design.RegionalDesignTests.test_insight_markup_displays_approved_numbers) ... ok
+test_navigation_and_widget_contracts (test_regional_design.RegionalDesignTests.test_navigation_and_widget_contracts) ... 2026-10-27 21:22:12.857 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-10-27 21:22:13.326 DEBUG   streamlit.components.v2.manifest_scanner: Filtered 85 packages down to 2 candidates for component scanning
+2026-10-27 21:22:13.328 DEBUG   streamlit.components.v2.manifest_scanner: Scanning 2 candidate packages for component manifests using 2 worker threads
+2026-10-27 21:22:14.187 DEBUG   streamlit.components.v2.manifest_scanner: Found 0 component manifests total
+2026-10-27 21:22:14.343 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-10-27 21:22:14.347 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-10-27 21:22:14.347 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-10-27 21:22:14.347 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-10-27 21:22:14.347 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-10-27 21:22:16.824 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-10-27 21:22:16.824 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+ok
+test_snow_map_keeps_every_boundary_and_selected_outline (test_regional_design.RegionalDesignTests.test_snow_map_keeps_every_boundary_and_selected_outline) ... ok
+test_status_direction_preserved_across_bases (test_regional_design.RegionalDesignTests.test_status_direction_preserved_across_bases) ... ok
+test_overview_uses_every_original_region_and_value (test_snow_charts.SnowChartTests.test_overview_uses_every_original_region_and_value) ... ok
+
+----------------------------------------------------------------------
+Ran 41 tests in 205.398s
+
+OK
